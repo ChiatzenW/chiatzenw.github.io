@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Chiatzen's Notes
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: ChiatzenW
 language: en
-timezone: ''
+timezone: 'America/Toronto'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://chiatzenw.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,4 +102,7 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: 'https://github.com/ChiatzenW/chiatzenw.github.io.git'
+  branch: main
+
