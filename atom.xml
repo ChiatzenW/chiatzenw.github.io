@@ -6,7 +6,7 @@
   <link href="https://chiatzenw.github.io/atom.xml" rel="self"/>
   
   <link href="https://chiatzenw.github.io/"/>
-  <updated>2022-03-15T03:01:20.151Z</updated>
+  <updated>2022-03-15T03:15:00.186Z</updated>
   <id>https://chiatzenw.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Remmber how BFS checks if node is unexplored</title>
+    <title>Remeber how BFS checks if node is unexplored</title>
     <link href="https://chiatzenw.github.io/2022/03/14/white/"/>
     <id>https://chiatzenw.github.io/2022/03/14/white/</id>
     <published>2022-03-15T02:57:46.000Z</published>
-    <updated>2022-03-15T03:01:20.151Z</updated>
+    <updated>2022-03-15T03:15:00.186Z</updated>
     
     
       
