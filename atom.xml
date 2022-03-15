@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chiatzen&#39;s Notes</title>
+  <icon>https://chiatzenw.github.io/icon.png</icon>
+  
+  <link href="https://chiatzenw.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://chiatzenw.github.io/"/>
+  <updated>2022-03-15T03:01:20.151Z</updated>
+  <id>https://chiatzenw.github.io/</id>
+  
+  <author>
+    <name>ChiatzenW</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Remmber how BFS checks if node is unexplored</title>
+    <link href="https://chiatzenw.github.io/2022/03/14/white/"/>
+    <id>https://chiatzenw.github.io/2022/03/14/white/</id>
+    <published>2022-03-15T02:57:46.000Z</published>
+    <updated>2022-03-15T03:01:20.151Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;I keep forgetting how BFS checks if the node is unexplored.&lt;br&gt;Like sometimes I just forget about it and turn it into a DFS and when I</summary>
+        
+      
+    
+    
+    
+    <category term="academics" scheme="https://chiatzenw.github.io/categories/academics/"/>
+    
+    <category term="algorithms" scheme="https://chiatzenw.github.io/categories/academics/algorithms/"/>
+    
+    <category term="CSC263" scheme="https://chiatzenw.github.io/categories/academics/algorithms/CSC263/"/>
+    
+    
+    <category term="BFS" scheme="https://chiatzenw.github.io/tags/BFS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Key ideas on proving BFS gives the shortest path on unweighted undirected graphs</title>
+    <link href="https://chiatzenw.github.io/2022/03/14/Key-ideas-on-proving-BFS-gives-the-shortest-path-on-unweighted-undirected-graphs/"/>
+    <id>https://chiatzenw.github.io/2022/03/14/Key-ideas-on-proving-BFS-gives-the-shortest-path-on-unweighted-undirected-graphs/</id>
+    <published>2022-03-14T18:34:15.000Z</published>
+    <updated>2022-03-14T19:37:35.957Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;p&gt;Basically some gists from &lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="academics" scheme="https://chiatzenw.github.io/categories/academics/"/>
+    
+    <category term="algorithms" scheme="https://chiatzenw.github.io/categories/academics/algorithms/"/>
+    
+    <category term="CSC263" scheme="https://chiatzenw.github.io/categories/academics/algorithms/CSC263/"/>
+    
+    
+    <category term="BFS" scheme="https://chiatzenw.github.io/tags/BFS/"/>
+    
+    <category term="proofs" scheme="https://chiatzenw.github.io/tags/proofs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>.config files&#39; icon is always windows in VScode</title>
+    <link href="https://chiatzenw.github.io/2022/03/14/funnies-vscode-config-icon-always-windows/"/>
+    <id>https://chiatzenw.github.io/2022/03/14/funnies-vscode-config-icon-always-windows/</id>
+    <published>2022-03-14T16:56:02.000Z</published>
+    <updated>2022-03-14T17:12:25.928Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Trying to modify i3 config with Vscode and noticed the icon for &lt;code&gt;.config&lt;/code&gt; files is the Windows logo. Thought it was pretty</summary>
+        
+      
+    
+    
+    
+    <category term="shorts" scheme="https://chiatzenw.github.io/categories/shorts/"/>
+    
+    
+    <category term="funnies" scheme="https://chiatzenw.github.io/tags/funnies/"/>
+    
+    <category term="random thoguhts" scheme="https://chiatzenw.github.io/tags/random-thoguhts/"/>
+    
+  </entry>
+  
+</feed>
