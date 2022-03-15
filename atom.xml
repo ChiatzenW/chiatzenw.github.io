@@ -6,7 +6,7 @@
   <link href="https://chiatzenw.github.io/atom.xml" rel="self"/>
   
   <link href="https://chiatzenw.github.io/"/>
-  <updated>2022-03-15T03:40:38.054Z</updated>
+  <updated>2022-03-15T04:33:31.888Z</updated>
   <id>https://chiatzenw.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>short story 练习1</title>
+    <link href="https://chiatzenw.github.io/2022/03/15/short-story%E7%BB%83%E4%B9%A01/"/>
+    <id>https://chiatzenw.github.io/2022/03/15/short-story%E7%BB%83%E4%B9%A01/</id>
+    <published>2022-03-15T04:30:00.000Z</published>
+    <updated>2022-03-15T04:33:31.888Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;很久之前写的， 而且只写了开头， 以前在jerkyll建的blog上，正好看见了就搬过来。 有时间并且想的话可能继续写下去，反正故事大体已经定了，，，&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;在我大概高二高三的时候, 与我所有那些总是忙忙碌碌的可怜同学们不同,</summary>
+        
+      
+    
+    
+    
+    <category term="拆腻子" scheme="https://chiatzenw.github.io/categories/%E6%8B%86%E8%85%BB%E5%AD%90/"/>
+    
+    <category term="写作练习" scheme="https://chiatzenw.github.io/categories/%E6%8B%86%E8%85%BB%E5%AD%90/%E5%86%99%E4%BD%9C%E7%BB%83%E4%B9%A0/"/>
+    
+    <category term="短故事" scheme="https://chiatzenw.github.io/categories/%E6%8B%86%E8%85%BB%E5%AD%90/%E5%86%99%E4%BD%9C%E7%BB%83%E4%B9%A0/%E7%9F%AD%E6%95%85%E4%BA%8B/"/>
+    
+    
+    <category term="short story" scheme="https://chiatzenw.github.io/tags/short-story/"/>
+    
+  </entry>
   
   <entry>
     <title>apparently follow.it uses wordpress</title>
