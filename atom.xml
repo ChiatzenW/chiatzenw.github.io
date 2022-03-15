@@ -6,7 +6,7 @@
   <link href="https://chiatzenw.github.io/atom.xml" rel="self"/>
   
   <link href="https://chiatzenw.github.io/"/>
-  <updated>2022-03-15T04:33:31.888Z</updated>
+  <updated>2022-03-15T14:45:43.790Z</updated>
   <id>https://chiatzenw.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Circulation flux divergence -- caluclus with curves</title>
+    <link href="https://chiatzenw.github.io/2022/03/15/Circulation-flux-divergence-caluclus-with-curves/"/>
+    <id>https://chiatzenw.github.io/2022/03/15/Circulation-flux-divergence-caluclus-with-curves/</id>
+    <published>2022-03-15T14:16:55.000Z</published>
+    <updated>2022-03-15T14:45:43.790Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;h2 id=&quot;Key-ideas&quot;&gt;&lt;a href=&quot;#Key-ideas&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="academics" scheme="https://chiatzenw.github.io/categories/academics/"/>
+    
+    <category term="multivar calculus" scheme="https://chiatzenw.github.io/categories/academics/multivar-calculus/"/>
+    
+    
+    <category term="calculus with curves" scheme="https://chiatzenw.github.io/tags/calculus-with-curves/"/>
+    
+  </entry>
   
   <entry>
     <title>short story 练习1</title>
@@ -67,9 +94,9 @@
     
     
     
-    <category term="random thoughts" scheme="https://chiatzenw.github.io/tags/random-thoughts/"/>
-    
     <category term="funnies" scheme="https://chiatzenw.github.io/tags/funnies/"/>
+    
+    <category term="random thoughts" scheme="https://chiatzenw.github.io/tags/random-thoughts/"/>
     
   </entry>
   
