@@ -6,7 +6,7 @@
   <link href="https://chiatzenw.github.io/atom.xml" rel="self"/>
   
   <link href="https://chiatzenw.github.io/"/>
-  <updated>2022-03-19T08:49:26.198Z</updated>
+  <updated>2023-01-17T03:11:47.418Z</updated>
   <id>https://chiatzenw.github.io/</id>
   
   <author>
@@ -15,6 +15,59 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Networking with peers finding industrial connections at CUSEC 2023</title>
+    <link href="https://chiatzenw.github.io/2023/01/16/CUSEC-2023/"/>
+    <id>https://chiatzenw.github.io/2023/01/16/CUSEC-2023/</id>
+    <published>2023-01-17T01:15:48.000Z</published>
+    <updated>2023-01-17T03:11:47.418Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Background&quot;&gt;&lt;a href=&quot;#Background&quot; class=&quot;headerlink&quot; title=&quot;Background&quot;&gt;&lt;/a&gt;Background&lt;/h2&gt;&lt;p&gt;December 2022, I had the rare fortune</summary>
+        
+      
+    
+    
+    
+    
+    <category term="conferences" scheme="https://chiatzenw.github.io/tags/conferences/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Haskell: Functors, Applicatives and Monads </title>
+    <link href="https://chiatzenw.github.io/2022/06/21/Haskell-Functors-Applicatives-and-Monads/"/>
+    <id>https://chiatzenw.github.io/2022/06/21/Haskell-Functors-Applicatives-and-Monads/</id>
+    <published>2022-06-22T02:45:10.000Z</published>
+    <updated>2022-06-22T03:23:09.333Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Relationship&quot;&gt;&lt;a href=&quot;#Relationship&quot; class=&quot;headerlink&quot; title=&quot;Relationship:&quot;&gt;&lt;/a&gt;Relationship:&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;|Functors          </summary>
+        
+      
+    
+    
+    
+    <category term="academics" scheme="https://chiatzenw.github.io/categories/academics/"/>
+    
+    <category term="Functional Programming" scheme="https://chiatzenw.github.io/categories/academics/Functional-Programming/"/>
+    
+    
+    <category term="CSCC24" scheme="https://chiatzenw.github.io/tags/CSCC24/"/>
+    
+    <category term="Haskell" scheme="https://chiatzenw.github.io/tags/Haskell/"/>
+    
+  </entry>
   
   <entry>
     <title>Young Letovists&#39; Manifesto</title>
